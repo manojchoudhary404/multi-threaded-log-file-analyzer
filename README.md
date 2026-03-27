@@ -93,4 +93,5 @@ Place your log file as `log.txt` in the project root. Each line must follow this
 
 ## 👨‍💻 Author
 
-Developed as a Java multi-threading practice project.
+**Manoj Choudhary**
+
