@@ -1,0 +1,5 @@
+2026-03-10 INFO User logged in
+2026-03-10 ERROR Database connection failed
+2026-03-10 INFO File uploaded
+2026-03-10 WARNING Disk space low
+2026-03-10 ERROR Payment failed
